@@ -1,6 +1,7 @@
 # illumio-create-pairing-profile
 
 Script to create a pairing profile for one-time use using user-supplied labels.
+The script will output a file to the current directory with the content being the pairing key.
 
 ## Usage
 
